@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "films_database",
+            "connectString": "postgres://aflthxam:diD2BI2_fL23je4rScd-5bDZx4uMrBts@isilo.db.elephantsql.com/aflthxam"
+        }
+    ]
+}
